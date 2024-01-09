@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was developed during one evening in 2017 as a fun exercise to explore different algorithms for solving a unique permutation puzzle. The puzzle consists of an n x n grid where each cell contains a unique number ranging from 0 to n²-1. The objective is to rearrange the cells to achieve a specific target permutation, typically the natural ordering of numbers from 0 to n²-1.
+This project was developed during one evening as a fun exercise to explore different algorithms for solving a unique permutation puzzle. The puzzle consists of an n x n grid where each cell contains a unique number ranging from 0 to n²-1. The objective is to rearrange the cells to achieve a specific target permutation, typically the natural ordering of numbers from 0 to n²-1.
 
 The repository includes four distinct algorithms for solving the puzzle:
 
