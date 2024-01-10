@@ -41,7 +41,7 @@ The puzzle is a simplification of the classic hue puzzle where you are given a g
 ### Graph Cycle Detection ([ref](https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/))
 
 - **Approach:** Uses a graph cycle detection algorithm to find the solution.
-- **Usage:** More efficient for larger puzzles, balancing between performance and optimality.
+- **Usage:** More efficient for larger puzzles, always finds the optimal solution. Runtime O(nlogn).
 
 ## Requirements
 
